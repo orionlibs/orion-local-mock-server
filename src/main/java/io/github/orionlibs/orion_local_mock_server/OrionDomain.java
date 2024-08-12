@@ -1,4 +1,4 @@
-package io.github.orionlibs.project_name;
+package io.github.orionlibs.orion_local_mock_server;
 
 public class OrionDomain
 {
