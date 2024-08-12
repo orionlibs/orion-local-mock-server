@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.orionlibs</groupId>
     <artifactId>orion-local-mock-server</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.2</version>
     <name>Orion Local Mock Server</name>
     <description>A local server mocking responses that can be used by testing frameworks.</description>
     <url>https://github.com/orionlibs/orion-local-mock-server</url>
